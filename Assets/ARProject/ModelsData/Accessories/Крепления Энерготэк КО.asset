@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 384b6b9afc824994582ebe3fb1306f6b, type: 3}
+  m_Name: "\u041A\u0440\u0435\u043F\u043B\u0435\u043D\u0438\u044F \u042D\u043D\u0435\u0440\u0433\u043E\u0442\u044D\u043A
+    \u041A\u041E"
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 566515195417748716, guid: 73e24a26c4438b6489d5471e6cc734b3, type: 3}
+  _name: "\u041A\u0440\u0435\u043F\u043B\u0435\u043D\u0438\u044F \u042D\u043D\u0435\u0440\u0433\u043E\u0442\u044D\u043A
+    \u041A\u041E"
+  _url: https://energotek.ru/catalog/krepleniya-i-kryuki-dlya-prokladki-kabelnykh-liniy/krepleniya-energotek-ko/

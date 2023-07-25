@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 384b6b9afc824994582ebe3fb1306f6b, type: 3}
+  m_Name: "\u0422\u0440\u0443\u0431\u044B  \u041F\u0440\u043E\u0442\u0435\u043A\u0442\u043E\u0440\u041B\u0430\u0439\u043D\xAE
+    \u041A\u0421"
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: -3506745437951809522, guid: addfd6ae2e4f5544aa2f4e19da33fdfb, type: 3}
+  _name: "\u0422\u0440\u0443\u0431\u044B  \u041F\u0440\u043E\u0442\u0435\u043A\u0442\u043E\u0440\u041B\u0430\u0439\u043D\xAE
+    \u041A\u0421"
+  _url: https://energotek.ru/catalog/truby-dlya-prokladki-nizkovoltnykh-kl/truby-protektorlayn-ks/
